@@ -12,6 +12,15 @@
 ![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=blue)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=black)
 
+---
+
+## 🚀 About Me
+Hi, I'm Vlad — an engineer passionate about building and maintaining infrastructure.  
+I have hands-on experience with Kubernetes, Ansible, Flux, Argo CD, kube-prometheus-stack, OpenSearch, MinIO, and Linux.  
+I also use Python for automation and integrations.  
+
+I’m interested in delivery pipelines, monitoring, and storage systems, as well as practices that make infrastructure reliable, scalable, and easy to use.  
+I enjoy automating processes, implementing CI/CD, and improving service observability.  
 
 ---
 
