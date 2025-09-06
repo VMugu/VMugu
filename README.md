@@ -11,3 +11,8 @@
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-mugu/)  
 📧 **Email:** eligosdoto@gmail.com  
+
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
