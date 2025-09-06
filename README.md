@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=orange)
 ![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=blue)
-![Bash](https://img.shields.io/badge/gnubash-4EAA25?logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 
 ---
