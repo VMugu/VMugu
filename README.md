@@ -9,6 +9,8 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=blue)
+
 
 ---
 
