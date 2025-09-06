@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-mugu/)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white)](eligosdoto@gmail.com)  
+[![Mail](https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white)](eligosdoto@gmail.com)  
 
 
 ---
